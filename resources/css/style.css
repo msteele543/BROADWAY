@@ -1,3 +1,52 @@
-head {
+body {
   text-align: center;
+}
+nav p {
+  list-style: none;
+  list-style-type: none;
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+nav p a {
+  color: white;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.title {
+  background-image: url("../images/background.jpg");
+}
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("../images/background.jpg");
+}
+
+ol li {
+  list-style: none;
+}
+
+footer p {
+align: left;
+display: inline-block;
 }
