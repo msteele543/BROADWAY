@@ -33,7 +33,11 @@ h2 {
   font-size: 32px;
   font-weight: bold;
 }
-
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
 .subtitle {
   font-family: Helvetica;
   font-size: 23px;
@@ -46,7 +50,17 @@ ol li {
   list-style: none;
 }
 
-footer p {
-align: left;
+.footer {
+  background-color: dimgray;
+   font-size: 11px;
+   color: white;
+   text-align: left;
+}
+
+.footer p {
 display: inline-block;
+}
+
+.footer a {
+  color: white;
 }
